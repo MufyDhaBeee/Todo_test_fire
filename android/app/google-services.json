@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411741735226",
+    "project_id": "todotestfire",
+    "storage_bucket": "todotestfire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411741735226:android:c36b74ad403ebf1d2fe803",
+        "android_client_info": {
+          "package_name": "com.example.todo_test_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xqqOOXUChcNFBr39aQxyfC6Wg58Ykng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
